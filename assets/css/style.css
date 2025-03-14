@@ -1,1 +1,24 @@
 /* Your styles here */
+
+.open sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  color: #393d41;
+  font-weight: 1.2rem;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  line-height: 1.65;
+}
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  color: #25a2c3;
+  font: weight 100px;
+  font-style: bold;
+  line-height: 1.5;
+}
+
+header img {
+  padding-left: ;
+}
